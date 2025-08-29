@@ -1,5 +1,6 @@
 # Text_To_Image_Gen
 ![alt image](https://github.com/Pravink12/Text_To_Image_Gen/blob/22bc494e4c0911fc1912279364afd0a14ce9c76d/text%20to%20image%201.jpg)
+![alt image](https://github.com/Pravink12/Text_To_Image_Gen/blob/50278c329948372abe97e3dd5d174a9aad95ae1a/text%20to%20image%202.jpg)
 A Text-to-Image conversion project built in Google Colab using Python and Hugging Face pretrained models. It generates images from text prompts by leveraging state-of-the-art deep learning models.
 
 This project converts text prompts into images using pretrained models from Hugging Face.  
